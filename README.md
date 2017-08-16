@@ -24,8 +24,8 @@ You can download the raw source from [GitHub](http://github.com/thedersen/backbo
 
 #### Standard builds
 
-* Development: [backbone-validation.js](https://raw.github.com/thedersen/backbone.validation/master/dist/backbone-validation.js) *22.7kb*
-* Production:  [backbone-validation-min.js](https://raw.github.com/thedersen/backbone.validation/master/dist/backbone-validation-min.js) *2.7kb gzipped*
+* Development: [backbone-validation.js](https://raw.github.com/samuelbetio/backbone.validation/master/dist/backbone-validation.js) *22.7kb*
+* Production:  [backbone-validation-min.js](https://raw.github.com/samuelbetio/backbone.validation/master/dist/backbone-validation-min.js) *2.7kb gzipped*
 
 #### AMD builds
 
